@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Ejercicio de ejemplo\bin\Debug\Ejercicio de ejemplo.exe.config
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Ejercicio de ejemplo\bin\Debug\Ejercicio de ejemplo.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Ejercicio de ejemplo\bin\Debug\Ejercicio de ejemplo.pdb
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Ejercicio de ejemplo\obj\Debug\Ejercicio de ejemplo.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Ejercicio de ejemplo\obj\Debug\Ejercicio de ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Ejercicio de ejemplo\obj\Debug\Ejercicio de ejemplo.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Ejercicio de ejemplo\obj\Debug\Ejercicio de ejemplo.pdb

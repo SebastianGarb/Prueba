@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 13 Ejercicio 6\bin\Debug\Semana 13 Ejercicio 6.exe.config
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 13 Ejercicio 6\bin\Debug\Semana 13 Ejercicio 6.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 13 Ejercicio 6\bin\Debug\Semana 13 Ejercicio 6.pdb
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 13 Ejercicio 6\obj\Debug\Semana 13 Ejercicio 6.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 13 Ejercicio 6\obj\Debug\Semana 13 Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 13 Ejercicio 6\obj\Debug\Semana 13 Ejercicio 6.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 13 Ejercicio 6\obj\Debug\Semana 13 Ejercicio 6.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reforzamiento T2", "reforzamiento T2.csproj", "{09A781F7-C3B8-4C54-8A4B-31F22AD49C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A781F7-C3B8-4C54-8A4B-31F22AD49C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A781F7-C3B8-4C54-8A4B-31F22AD49C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A781F7-C3B8-4C54-8A4B-31F22AD49C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A781F7-C3B8-4C54-8A4B-31F22AD49C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40251C59-FFCC-4C95-A875-2ACC5A81EE6F}
+	EndGlobalSection
+EndGlobal

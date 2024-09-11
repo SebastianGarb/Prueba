@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 5 INISCO 10570\bin\Debug\Semana 5 INISCO 10570.exe.config
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 5 INISCO 10570\bin\Debug\Semana 5 INISCO 10570.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 5 INISCO 10570\bin\Debug\Semana 5 INISCO 10570.pdb
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 5 INISCO 10570\obj\Debug\Semana 5 INISCO 10570.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 5 INISCO 10570\obj\Debug\Semana 5 INISCO 10570.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 5 INISCO 10570\obj\Debug\Semana 5 INISCO 10570.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Semana 5 INISCO 10570\obj\Debug\Semana 5 INISCO 10570.pdb

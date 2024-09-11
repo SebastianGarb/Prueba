@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Practica del examen\bin\Debug\Practica del examen.exe.config
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Practica del examen\bin\Debug\Practica del examen.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Practica del examen\bin\Debug\Practica del examen.pdb
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Practica del examen\obj\Debug\Practica del examen.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Practica del examen\obj\Debug\Practica del examen.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Practica del examen\obj\Debug\Practica del examen.exe
+C:\Users\USER\Documents\Proyectos del curso Int. Ing. de sistemas 10750\Practica del examen\obj\Debug\Practica del examen.pdb
